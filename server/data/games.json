@@ -1,0 +1,42 @@
+{
+    "924fe008-1d8f-4f76-b029-ce65cb7b0659": {
+        "title": "Satisfactory",
+        "category": "Automation",
+        "maxLevel": "10",
+        "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1718088881",
+        "summary": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+        "_id": "924fe008-1d8f-4f76-b029-ce65cb7b0659"
+    },
+    "27d42e37-8807-45dc-b64b-53bdad2e61e4": {
+        "title": "Eve Online",
+        "category": "Space Simulator",
+        "maxLevel": "11",
+        "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/header.jpg?t=1719480994",
+        "summary": "EVE Online is a free-to-play community driven space MMO where players can choose their own path from countless different options. Experience space exploration, immense PvP and PvE battles, mining, industry and a thriving player economy in an ever-expanding sandbox.",
+        "_id": "27d42e37-8807-45dc-b64b-53bdad2e61e4"
+    },
+    "5d855c6a-0f56-4e83-94f2-fb30f73fe1d8": {
+        "title": "Zomboid",
+        "category": "The Indie Stone",
+        "maxLevel": "7",
+        "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1691508011",
+        "summary": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
+        "_id": "5d855c6a-0f56-4e83-94f2-fb30f73fe1d8"
+    },
+    "f4be7dd1-7430-4955-b86b-2ada25e2cac8": {
+        "title": "Palworld",
+        "category": "Pocktpair",
+        "maxLevel": "5",
+        "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg?t=171948090",
+        "summary": "Fight, farm, build and work alongside mysterious creatures called Pals in this completely new multiplayer, open world survival and crafting game!",
+        "_id": "f4be7dd1-7430-4955-b86b-2ada25e2cac8"
+    },
+    "76d92277-acc4-4d73-8927-55de09706177": {
+        "title": "Palworld",
+        "category": "Pocktpair",
+        "maxLevel": "5",
+        "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg?t=171948090",
+        "summary": "Fight, farm, build and work alongside mysterious creatures called 'Pals' in this completely new multiplayer, open world survival and crafting game!",
+        "_id": "76d92277-acc4-4d73-8927-55de09706177"
+    }
+}
