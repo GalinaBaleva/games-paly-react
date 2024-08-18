@@ -15,10 +15,10 @@ SoftUni React Course Project
 - [x] Add routes in App.jsx
 - [x] Add links in the navigation
 ## 3. Create Service Layer
-- [ ] Service layer architecture disccusion
-- [ ] Abstract requester
+- [x] Service layer architecture disccusion
+- [x] Abstract requester
 - [ ] Add games api
-- [ ] Preseed practice server
+- [x] Preseed practice server
 ## 4. Page Implementations
 - [ ] Game list
 - [ ] Details

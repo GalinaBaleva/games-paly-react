@@ -1,20 +1,24 @@
 async function requester(method, url, data) {
     const options = {};
 
-    if(data){
+    if(method !== 'GET'){
+        options.method = method;
+    }
+
+    if (data) {
         options.headers = {
             'Content-Type': 'application/json',
         },
-        options.body = JSON.stringify(data); 
+            options.body = JSON.stringify(data);
     }
-    try{
+    try {
         const respons = await fetch(url, options);
         const gamesData = await respons.json();
 
         return gamesData;
 
 
-    } catch(err){
+    } catch (err) {
         return alert(err.message);
     }
 
